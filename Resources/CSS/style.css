@@ -10,7 +10,7 @@ body {
 }
 
 
-/* header code - flex-container used throughout code */
+/* header code - flex-container used throughout code. */
 header {
   position: fixed;
   background-color: black;
